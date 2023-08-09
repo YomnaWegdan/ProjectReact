@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+h1{
+    color: $`{({th})}`;
+    font-size: 6rem;
+    font-weight: 900;
+}

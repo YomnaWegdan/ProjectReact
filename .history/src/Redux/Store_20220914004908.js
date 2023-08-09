@@ -1,0 +1,5 @@
+import { legacy_createStore } from "redux";
+import rootReducers from "./Reducers";
+
+const store = legacy_createStore(rootReducers);
+ex default store
