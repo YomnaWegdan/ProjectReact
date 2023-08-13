@@ -1,5 +1,5 @@
 # Apple Store
-![Captures](https://github.com/YomnaWegdan/ProjectReact/assets/101523679/0432b877-d817-4b9c-85cf-05095cb6c685)
+![screencapture-localhost-3000-2023-08-13-21_32_35vv](https://github.com/YomnaWegdan/ProjectReact/assets/101523679/0d5d6e58-4550-4c4e-a510-60febcc22fea)
 
 ## Features
 #### Home
@@ -12,7 +12,7 @@
 #### Register
 
 ## Built With
-#### React
+#### React - Redux
 #### Bootstrap
 
 
