@@ -1,3 +1,22 @@
+# Apple Store
+![Captures](https://github.com/YomnaWegdan/ProjectReact/assets/101523679/0432b877-d817-4b9c-85cf-05095cb6c685)
+
+## Features
+#### Home
+#### Products
+#### About Us
+#### Contact US
+#### Product Details
+#### Cart
+#### Login
+#### Register
+
+## Built With
+#### React
+#### Bootstrap
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
